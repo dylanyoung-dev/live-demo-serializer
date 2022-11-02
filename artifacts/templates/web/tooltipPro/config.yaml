@@ -1,11 +1,11 @@
-name: inactiveTab
+name: ToolTipPro
 archived: false
-friendlyId: 'inactivetab_wd6tz0j5jy'
+friendlyId: 'tooltippro_tcdqy30v6w'
 type: WEB
 status: PUBLISHED
 icon: 'icon-web-Analytics'
-render: true
 defaultTemplate: false
+render: true
 tags:
   - Source Control
 customTemplate: true

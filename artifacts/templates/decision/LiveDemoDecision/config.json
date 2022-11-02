@@ -1,12 +1,12 @@
 {
-  "name": "getTriggerEvents",
+  "name": "LiveDemoDecision",
   "archived": false,
-  "friendlyId": "gettriggerevent_l4oyrahze3",
+  "friendlyId": "livedemodecision_161tj36r8h",
   "type": "DECISION",
   "status": "PUBLISHED",
   "icon": "",
   "additionalFields": {
-    "decisionOutputReference": "getnumberofevents",
+    "decisionOutputReference": "livedemodecision",
     "decisionReturnType": "String"
   },
   "defaultTemplate": false,
