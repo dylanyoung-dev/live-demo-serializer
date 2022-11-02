@@ -8,4 +8,5 @@ defaultTemplate: false
 render: true
 tags:
   - Source Control
+  - Live Demo
 customTemplate: true
